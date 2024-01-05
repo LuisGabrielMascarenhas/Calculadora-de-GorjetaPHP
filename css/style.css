@@ -22,6 +22,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 40%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
 }
 
 select{
@@ -62,6 +63,6 @@ button {
     background-color: #fff;
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
     width: 40%;
 }
